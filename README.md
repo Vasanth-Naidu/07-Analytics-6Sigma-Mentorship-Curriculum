@@ -4,7 +4,7 @@
 * **Domain:** Peer-to-Peer Technical Mentorship, Operational Enablement, Six Sigma Coaching, Data Analytics Upskilling & Modular Curriculum Design[cite: 1]
 * **Company Context:** Enterprise Capability Building (JPMorgan Chase, Dell Technologies, iGate & GE Capital)[cite: 1]
 * **Role:** Floor-Led Technical Mentor, Peer-to-Peer Coach & Six Sigma (Yellow/Green Belt) Practitioner[cite: 1]
-* **Core Value Delivered:** Driven by frontline demand and supported by operational leadership, initiated and delivered organic, tailored technical training sessions across MS-Excel, MS-Access, basic VBA macro coding, querying, and Lean Six Sigma methodologies[cite: 1]. Partnered transparently with management and L&D to build targeted upskilling modules for operational peers[cite: 1]. Upskilled and mentored 200+ professionals, transforming non-technical frontline operators into self-sufficient automation builders and establishing a self-sustaining culture of continuous improvement[cite: 1, 2].
+* **Core Value Delivered:** Driven by frontline demand and supported by operational leadership, initiated and delivered organic, tailored technical training sessions across MS-Excel, MS-Access, basic VBA macro coding, querying, and Lean Six Sigma methodologies[cite: 1]. Partnered transparently with management and L&D to build targeted upskilling modules for operational peers[cite: 1]. Upskilled and mentored 100+ professionals, transforming non-technical frontline operators into self-sufficient automation builders and establishing a self-sustaining culture of continuous improvement[cite: 1, 2].
 
 ---
 
@@ -20,7 +20,7 @@
 ## 2. Capability Building & Curriculum Framework:
 
 1. **Frontline Demand Intake & Manager Authorization** — Evaluated recurring floor pain points and colleague requests to design tailored, short-burst technical sessions, obtaining manager approvals and keeping L&D informed.
-2. **Lean Six Sigma & Process Mapping Coaching** — Upskilled 200+ resources on Six Sigma DMAIC methodology, SIPOC process mapping, root-cause analysis (Fishbone, 5 Whys), and defect elimination frameworks.
+2. **Lean Six Sigma & Process Mapping Coaching** — Upskilled 100+ resources on Six Sigma DMAIC methodology, SIPOC process mapping, root-cause analysis (Fishbone, 5 Whys), and defect elimination frameworks.
 3. **Advanced MS Excel & Relational Access Database Training** — Built hands-on lab modules teaching complex formulas, array manipulation, data normalization, primary/foreign key indexing, and relational schema architecture in MS-Access.
 4. **Procedural VBA Macro Automation** — Taught procedural VBA programming, custom userform design, error-handling routines, and cross-application automation (Excel to Word/Outlook/Access).
 5. **SQL Data Querying & Analytics Bootcamp** — Instructed non-technical team members on relational database querying, SELECT statements, multi-table JOINs, GROUP BY aggregations, and data cleansing logic.
